@@ -11,8 +11,7 @@ Cada resultado pode ser visualizado com mais detalhes, tais como forks, issues o
 <div style="display: flex">
 <img src="./src/assets/Screenshot1.png" height="80px" width="150px" style="margin-right: 10px">
 <img src="./src/assets/Screenshot2.png"
-height="80px" width="150px"
-style="width: 150px; height: 80px">
+height="80px" width="150px">
 </div>
 
 ## Construído com:
