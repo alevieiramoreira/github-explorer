@@ -9,9 +9,9 @@ Projeto desenvolvido para uma simples e prática maneira de listar repositórios
 Cada resultado pode ser visualizado com mais detalhes, tais como forks, issues ou stars.
 
 <div style="display: flex; align-items: center">
-<img src="./src/assets/Screenshot1.png" height="190px" width="350px" style="margin-right: 10px">
+<img src="./src/assets/Screenshot1.png" height="240px" width="450px" style="margin-right: 10px">
 <img src="./src/assets/Screenshot2.png"
-height="190px" width="350px">
+height="240px" width="450px">
 </div>
 
 ## Construído com:
